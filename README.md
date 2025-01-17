@@ -1,17 +1,10 @@
 # ecommerce_provider
 
-A new Flutter project.
+Updateovana verzija
 
-## Getting Started
+- za navigaciju koriscen GoRouter
+- za prenos parametara koriscen je Provider
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# eCommerce_2
+Nove funkcionalnosti
+- Prilikom "logovanja" korisnik unosi svoje ime kao i pocetnu sumu novca koju poseduje
+- uvodjenjem novca sada moze da se kupi odredjena kolicina patika
